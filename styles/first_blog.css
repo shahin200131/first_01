@@ -2,7 +2,8 @@ div{
     background-color: aqua;
     padding: 2%;
     margin-bottom: 2%;
-    border: rebeccapurple,;
+    border:solid 10px rebeccapurple;
+    text-align: center;
 }
 ol{
     background-color: green;
